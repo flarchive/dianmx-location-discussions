@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of dianmx/location-discussions.** Not for installation: use [Packagist](https://packagist.org/packages/dianmx/location-discussions) or the [upstream repository](https://github.com/dianmx/local-discussions).
 
-**0** versions archived · Latest: [`v0.0.4`](https://github.com/flarchive/dianmx-location-discussions/tree/archive/v0.0.4) · License: `MIT` · Flarum: `^1.0.0`
+**4** versions archived · Latest: [`v0.0.4`](https://github.com/flarchive/dianmx-location-discussions/tree/archive/v0.0.4) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2021-11-08 | `^1.0.0` | [Browse](https://github.com/flarchive/dianmx-location-discussions/tree/archive/v0.0.1) |
+| `v0.0.2` | 2021-11-08 | `^1.0.0` | [Browse](https://github.com/flarchive/dianmx-location-discussions/tree/archive/v0.0.2) |
+| `v0.0.3` | 2021-11-09 | `^1.0.0` | [Browse](https://github.com/flarchive/dianmx-location-discussions/tree/archive/v0.0.3) |
+| `v0.0.4` | 2021-11-12 | `^1.0.0` | [Browse](https://github.com/flarchive/dianmx-location-discussions/tree/archive/v0.0.4) |
 
 Catalog entry: [packages/dianmx-location-discussions.json](https://github.com/flarchive/archive-index/blob/main/packages/dianmx-location-discussions.json)
 
